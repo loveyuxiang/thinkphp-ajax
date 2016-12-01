@@ -1,2 +1,6 @@
 # thinkphp-ajax
 thinkphp使用ajax机制对数据的增删改查
+
+
+代码内涉及了thinkphp框架中使用jQuery的ajax写的一个完整留言板，内容涉及ajax的删除，添加，以及在删除和添加时使用Js函数对页面数据变动的操作。
+下载代码直接可以测试使用。
